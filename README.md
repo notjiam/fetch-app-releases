@@ -1,3 +1,5 @@
+<img width="1072" height="832" alt="image" src="https://github.com/user-attachments/assets/5d0f7f52-fbd6-4657-85e9-760c7725a46f" />
+
 # Fetch - Release Channel 🚀
 
 > **Note:** This repository is used exclusively for hosting application binaries and auto-update files. The source code for Fetch is contained in a private repository.
